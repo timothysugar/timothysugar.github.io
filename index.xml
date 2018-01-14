@@ -6,9 +6,37 @@
     <description>Recent content on timsu.gr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2018 14:22:17 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Third Post</title>
+      <link>http://example.org/posts/my-third-post/</link>
+      <pubDate>Sun, 14 Jan 2018 14:22:17 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-third-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Sun, 14 Jan 2018 14:18:07 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Really First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2018 12:20:34 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Some content for my first post.</description>
+    </item>
     
   </channel>
 </rss>
